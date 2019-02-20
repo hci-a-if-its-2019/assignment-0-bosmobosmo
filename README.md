@@ -11,7 +11,7 @@ The interface in the game is mostly alright but in my opinion, there is one thin
 
 ![](res/kantai.jpg)
 
-is the lack of quick button for battle menu in the sidebar. Most of what the players will be doing is sending their fleets to sortie, and then repairing them and sometimes changing the fleet's formation. The lack of said button means that after going through repair screen and sommetimes, fleet formation screen (both available in the sidebar), means the player must return to the main menu everytime to send fleets to sortie. It's not something very critical that renders the game unplayable but if they added the button, the overall experience of the game would be much more pleasant.
+the lack of quick button for battle menu in the sidebar. Most of what the players will be doing is sending their fleets to sortie, and then repairing them and sometimes changing the fleet's formation. The lack of said button means that after going through repair screen and sommetimes, fleet formation screen (both available in the sidebar), means the player must return to the main menu everytime to send fleets to sortie. It's not something very critical that renders the game unplayable but if they added the button, the overall experience of the game would be much more pleasant.
 
 ## 2. Azur Lane (game)
 
