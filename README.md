@@ -1,4 +1,4 @@
-Name:   Barep Bimo Pangestu
+Name:   Barep Bimo Pangestu<br>
 NRP:    05111540000112
 
 # Examples of bad design
@@ -27,3 +27,10 @@ In the game, the player can do somethings like scrapping gears or retiring unnee
 
 This game have many quests for players to complete. Most of time I play this game just to complete the daily quests. Some of these quests are locked until you finish other daily quests. For example, the "Finish a battle with rating A or better" quests can only be done after the player finished "Finish a battle" quest. The bad thing about this is the game won't automatically unlock the next quest after you completed the requirements. Instead the player must take the quest reward first before the game shows the quest. This is annoying because the player must return to the main menu screen and select the quest menu everytime after they finished a battle to open a new quest or they will not be rewarded for they hard work. The game would be much better if it have an auto quest progression like the one in Girls' Frontline, or maybe to have the quest button available in the battle map screen so the player won't need to return all the way to the main screen.
 
+## 3. Steam mobile (app)
+
+Steam mobile is a mobile version of the software Steam by valve. The main purpose of the app is to give extra security for user's account with the steam guard system and also for user's to browse their store and make purchases.
+
+![](res/Steam.jpg)
+
+This app is very useful for people who frequently uses Steam's services but as can be seen from the screenshot above, the interface is very bad. It looks like the designer in behind this app doesn't understand about mobile interface and just forced the default desktop interface into the mobile screen, which makes it look like an app from 2010.
