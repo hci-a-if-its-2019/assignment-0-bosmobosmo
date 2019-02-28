@@ -13,4 +13,4 @@ Ads placed in the same column as the answers, therefore could cause confusion es
 
 The navbar menu is shown above the navbar instead of below it, and they are opened by default.
 
-![](res/archive.pngs)
+![](res/archive.png)
